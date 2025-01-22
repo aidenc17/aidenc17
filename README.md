@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Aiden👋
 
 Welcome to my GitHub profile! I'm a passionate and driven **junior Computer Science student** pursuing a Bachelor of Science degree and working towards a **Cybersecurity Certificate**. I love exploring new areas in technology and constantly improving my skills.
 
