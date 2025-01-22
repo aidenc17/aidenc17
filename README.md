@@ -14,9 +14,9 @@ Welcome to my GitHub profile! I'm a passionate and driven **Junior Computer Scie
 [![LC3 Assembly](https://img.shields.io/badge/LC3_Assembly-gray?style=for-the-badge)](https://en.wikipedia.org/wiki/Little_Computer_3)
 
 ### Tools & Frameworks
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)(https://git-scm.com)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)(https://developer.android.com/studio)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)(https://developer.android.com/jetpack/compose)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
+[![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/jetpack/compose)
 
 ---
 
