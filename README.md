@@ -1,14 +1,6 @@
 # Hi there, I'm Aiden👋
 
 Welcome to my GitHub profile! I'm a passionate and driven **Junior Computer Science student** pursuing a Bachelor of Science degree and working towards a **Cybersecurity Certificate**. 
----
-
-## 🛠 Skills & Technologies
-
-### Programming Languages
-# Hi there, I'm [Your Name] 👋
-
-Welcome to my GitHub profile! I'm a passionate and driven **junior Computer Science student** pursuing a Bachelor of Science degree and working towards a **Cybersecurity Certificate**. I love exploring new areas in technology and constantly improving my skills.
 
 ---
 
@@ -22,9 +14,9 @@ Welcome to my GitHub profile! I'm a passionate and driven **junior Computer Scie
 [![LC3 Assembly](https://img.shields.io/badge/LC3_Assembly-gray?style=for-the-badge)](https://en.wikipedia.org/wiki/Little_Computer_3)
 
 ### Tools & Frameworks
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)(https://git-scm.com)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)(https://developer.android.com/studio)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)(https://developer.android.com/jetpack/compose)
 
 ---
 
