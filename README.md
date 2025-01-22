@@ -6,11 +6,20 @@ Welcome to my GitHub profile! I'm a passionate and driven **Junior Computer Scie
 ## 🛠 Skills & Technologies
 
 ### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![LC3 Assembly](https://img.shields.io/badge/LC3_Assembly-gray?style=for-the-badge)
+# Hi there, I'm [Your Name] 👋
+
+Welcome to my GitHub profile! I'm a passionate and driven **junior Computer Science student** pursuing a Bachelor of Science degree and working towards a **Cybersecurity Certificate**. I love exploring new areas in technology and constantly improving my skills.
+
+---
+
+## 🛠 Skills & Technologies
+
+### Programming Languages
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![LC3 Assembly](https://img.shields.io/badge/LC3_Assembly-gray?style=for-the-badge)](https://en.wikipedia.org/wiki/Little_Computer_3)
 
 ### Tools & Frameworks
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
