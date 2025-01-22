@@ -60,4 +60,4 @@ Welcome to my GitHub profile! I'm a passionate and driven **junior Computer Scie
 
 ---
 
-Thank you for visiting my profile! Feel free to check out my repositories and reach out if you'd like to collaborate or chat about tech. 🚀
+Thank you for visiting my profile! Feel free to check out my repositories!🚀
