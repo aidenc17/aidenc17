@@ -52,6 +52,12 @@ Welcome to my GitHub profile! I'm a passionate and driven **Junior Computer Scie
   - An in-depth random fighting mechanic
   - A text-based map displayed on the terminal
 
+- **Business Card App**  built using **Jetpack Compose** for modern Android UI development. The app features: 
+  - 📷 **Profile Image**: Displays a centered logo/image.
+  - 🏷️ **Name & Title**: Well-aligned and styled text for professional presentation.
+  - 📞 **Contact Information**: Includes phone, social handle, and email with icons.
+  - 🛠️ **Jetpack Compose**: Uses declarative UI with **Material 3** components.
+
 ---
 
 ## 🌐 Connect With Me
