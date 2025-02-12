@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a passionate and driven **Junior Computer Scie
 
 ---
 
-## 🧠 Research & Projects
+## 🧠 Research & Favorite Projects
 - **Artificial Intelligence Research:** Comprehensive approach to testing artificial intelligence under the guidance of the Dean of Computer Science and Engineering. Key elements include:
   - Data verification
   - Handling missing data
