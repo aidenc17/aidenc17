@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate and driven **Junior Computer Scie
 - **Teaching Assistant:** Operating Systems Concepts and Usage
 - **Clubs / Positions**
   - WSU CS/CEG Alumni Society Student Board Member
-  - Tau Beta Pi
+  - Tau Beta Pi Engineering Society - Ohio Mu Chapter
 - **Notable Coursework:**  
   - Data Structures and Algorithms  
   - Introduction to Cybersecurity  
