@@ -21,7 +21,8 @@ Welcome to my GitHub profile! I'm a passionate and driven **Junior Computer Scie
 ---
 
 ## 🌟 Certifications
-- **Lean Six Sigma Green Belt**  
+- **Lean Six Sigma Green Belt**
+- **CRLA Tutoring Certificate**
 
 ---
 
