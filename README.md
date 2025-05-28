@@ -1,6 +1,6 @@
 # Hi there, I'm Aiden👋
 
-Welcome to my GitHub profile! I'm a passionate and driven **Junior Computer Science student** pursuing a Bachelor of Science degree and working towards a **Cybersecurity Certificate**. 
+Welcome to my GitHub profile! I'm a passionate and driven **Senior Computer Science student** pursuing a Bachelor of Science degree and working towards a **Cybersecurity Certificate**. 
 
 ---
 
