@@ -51,6 +51,14 @@ Welcome to my GitHub profile! I'm a passionate and driven **Senior Computer Scie
   - Addressing decision problems
   - Meticulous experimental design
 
+- **JPL Construction App:** Full-stack mobile app built with **Expo**, **Python**, **Firestore**, and **TailwindCSS** to streamline business operations for a construction company. Features include:
+  - A mobile-friendly interface for managing **clients, jobs, and invoices**
+  - **Real-time data** updates and storage using Firestore
+  - **Automated PDF generation** and email dispatch for invoices
+  - A secure **client portal** for payments and communication
+  - Planned features like **financial dashboards** and **recurring billing**
+  - Developed in a team using **Agile**, **Git**, and modern UI practices
+
 - **Space Invaders:** Program in Java that uses Java Swing to emulate the classic Space Invaders! Features include:
   - A movable character
   - Approaching enemies
