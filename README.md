@@ -12,11 +12,16 @@ Welcome to my GitHub profile! I'm a passionate and driven **Senior Computer Scie
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![LC3 Assembly](https://img.shields.io/badge/LC3_Assembly-gray?style=for-the-badge)](https://en.wikipedia.org/wiki/Little_Computer_3)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![VBA](https://img.shields.io/badge/VBA-00A300?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://docs.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office)
 
 ### Tools & Frameworks
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/jetpack/compose)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
+[![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/products/firestore)
+
 
 ---
 
@@ -27,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate and driven **Senior Computer Scie
 ---
 
 ## 📘 Academic Highlights
-- **Teaching Assistant:** Operating Systems Concepts and Usage
+- **Lead Teaching Assistant:** Operating Systems Concepts and Usage
 - **Clubs / Positions**
   - WSU CS/CEG Alumni Society Student Board Member
   - Tau Beta Pi Engineering Society Treasurer - Ohio Mu Chapter
@@ -35,6 +40,7 @@ Welcome to my GitHub profile! I'm a passionate and driven **Senior Computer Scie
   - Data Structures and Algorithms  
   - Introduction to Cybersecurity  
   - Host Computer Security
+  - Intro to Machine Learning (Master's Level)
 
 ---
 
