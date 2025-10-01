@@ -44,40 +44,6 @@ Welcome to my GitHub profile! I'm a passionate and driven **Senior Computer Scie
 
 ---
 
-## 🧠 Research & Favorite Projects
-- **Artificial Intelligence Research:** Comprehensive approach to testing **artificial intelligence** under the guidance of the Dean of Computer Science and Engineering. Key elements include:
-  - Data verification
-  - Handling missing data
-  - Addressing decision problems
-  - Meticulous experimental design
-
-- **JPL Construction App:** Full-stack mobile app built with **Expo**, **Python**, **Firestore**, and **TailwindCSS** to streamline business operations for a construction company. Features include:
-  - A mobile-friendly interface for managing **clients, jobs, and invoices**
-  - **Real-time data** updates and storage using Firestore
-  - **Automated PDF generation** and email dispatch for invoices
-  - A secure **client portal** for payments and communication
-  - Planned features like **financial dashboards** and **recurring billing**
-  - Developed in a team using **Agile**, **Git**, and modern UI practices
-
-- **Space Invaders:** Program in Java that uses Java Swing to emulate the classic Space Invaders! Features include:
-  - A movable character
-  - Approaching enemies
-  - A **shooting system** for the player to fight back
-  - A scoreboard and **difficulty** that **ramps up** as you progress
-
-- **Catacomb Crawler:** Program in **Java** that prompts the user for their name, then sets them on a quest through rooms to battle monsters and make it to the exit before running out of health. Key features include:
-  - Three separate classes and two-dimensional arrays to build the game
-  - An in-depth **random fighting mechanic**
-  - A **text-based map** displayed on the terminal
-
-- **Business Card App**  built using **Jetpack Compose** for modern Android UI development. The app features: 
-  - Profile Image: Displays a centered logo/image.
-  - Name & Title: Well-aligned and styled text for professional presentation.
-  - Contact Information: Includes phone, social handle, and email with icons.
-  - Jetpack Compose: Uses declarative UI with **Material 3** components.
-
----
-
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aiden-cox-445627273/)  
 [![Email](https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=icloud&logoColor=white)](mailto:aiden.cox04@icloud.com)
