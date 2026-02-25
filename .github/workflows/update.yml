@@ -1,0 +1,37 @@
+name: Update README SVG
+
+on:
+  schedule:
+    # Runs every day at 00:00 UTC
+    - cron: "0 5 * * *"
+  workflow_dispatch:  # allows manual trigger from GitHub Actions tab
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate SVG
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: python generate.py
+
+      - name: Commit & push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name  "github-actions[bot]"
+          git add profile.svg
+          git diff --staged --quiet || git commit -m "chore: update profile SVG [skip ci]"
+          git push
