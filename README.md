@@ -1,6 +1,6 @@
 # Hi, I'm Aiden
 
-Software developer. B.S. in Computer Science from Wright State after spending three years figuring out that the answer to most problems is "have you tried turning it off and on again," and that this is, in fact, real engineering.
+Software engineer. B.S. in Computer Science from Wright State after spending three years figuring out that the answer to most problems is "have you tried turning it off and on again," and that this is, in fact, real engineering.
 
 ---
 
